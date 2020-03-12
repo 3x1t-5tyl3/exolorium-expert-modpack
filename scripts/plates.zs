@@ -51,3 +51,10 @@ for entry in oreDict.entries {
     if (entry.name has "ingot") otherBit = "ingot"; else otherBit = "gem";
     recipes.addShapeless(otherName ~ "_plate_from_" ~ otherName ~ "_" ~ otherBit, plateDict.firstItem, [entry, entry, <ore:artisansHammer>.transformDamage()]);
 }
+
+mods.unidict.removalByKind.get("Crafting").remove("plate");
+mods.unidict.removalByKind.get("Crafting").remove("gear");
+mods.unidict.removalByKind.get("Crafting").remove("stick");
+mods.unidict.removalByKind.get("Crafting").remove("coil");
+mods.unidict.removalByKind.get("Crafting").remove("dust");
+mods.unidict.removalByKind.get("Crafting").remove("ore");

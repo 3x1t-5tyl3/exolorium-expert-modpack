@@ -1,0 +1,73 @@
+{
+  "name": "biggercraftingtables:biggercraftingtable",
+
+  "target-block": "biggercraftingtables:biggercraftingtable",
+  "target-count": 1,
+  "target-meta": 0,
+  "catalyst": "ironchest:iron_chest",
+  "catalyst-meta": 2,
+  
+"input-types": {
+  "a": {
+    "id": "extendedcrafting:crafting_table",
+    "meta": 0
+  },
+  "b": {
+    "id": "avaritia:compressed_crafting_table",
+    "meta": 0
+  }
+},
+"shape": [
+  [
+    [
+      "a",
+      "a",
+      "a"
+    ],
+    [
+      "a",
+      "a",
+      "a"
+    ],
+    [
+      "a",
+      "a",
+      "a"
+    ]
+  ],
+  [
+    [
+      "b",
+      "b",
+      "b"
+    ],
+    [
+      "b",
+      "b",
+      "b"
+    ],
+    [
+      "b",
+      "b",
+      "b"
+    ]
+  ],
+  [
+    [
+      "b",
+      "b",
+      "b"
+    ],
+    [
+      "b",
+      "b",
+      "b"
+    ],
+    [
+      "b",
+      "b",
+      "b"
+    ]
+  ]
+]
+}

@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "hwell:book_of_the_well": {
+      "viewedEntries": [
+        "hwell:introduction/basestuff"
+      ],
+      "bookmarks": [],
+      "history": [
+        "hwell:introduction/basestuff"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "addItems": [ "all" ],
+    "addBlocks": [ "all" ],
+    "maxInChunk": 12,
+    "minY": 4,
+    "maxY": 24,
+    "maxVeinSize": 5,
+    "color": 0x57007F,
+    "useOreTemplate": true,
+    "langs": {
+        "material": {
+            "en": "Obsidium",
+            "ru": "обсидиума",
+            "de": "Obsidium"
+        }
+    },
+    "gen": {
+        "gen_source": {
+            "block": "minecraft:stone",
+            "meta": 0
+        }
+    },
+    "alloy": {
+        "inputs": [ "platinum", "tin", "zinc" ],
+        "output": 3
+    }
+}

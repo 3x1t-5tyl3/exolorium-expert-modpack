@@ -1,0 +1,129 @@
+{
+  "images":
+  {
+    "ExoE":
+    {
+            "image" : "textures:gui/background/ExoE.png",
+            "posX" : -336.5,
+            "posY" : 20,
+            "width" : 673,
+            "height" : 223,
+            "alignment" : "top_center",
+            "imageWidth": "2692",
+            "imageHeight": "892"
+    }
+  },
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "",
+            "texture" : "textures:gui/buttons/singleplayer.png",
+            "posX" : -82,
+            "posY" : 60,
+            "width" : 164,
+            "height" : 30,
+            "alignment" : "center",
+            "imageWidth": "820",
+            "imageHeight": "150",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        "mods":
+        {
+            "text" : "",
+            "texture" : "textures:gui/buttons/mods.png",
+            "posX" : -82,
+            "posY" : 90,
+            "width" : 164,
+            "height" : 30,
+            "alignment" : "center",
+            "imageWidth": "820",
+            "imageHeight": "150",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+        "options":
+        {
+            "text" : "",
+            "texture" : "textures:gui/buttons/options.png",
+            "posX" : -82,
+            "posY" : 120,
+            "width" : 164,
+            "height" : 30,
+            "alignment" : "center",
+            "imageWidth": "820",
+            "imageHeight": "150",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        "quit":
+        {
+            "text" : "",
+            "texture" : "textures:gui/buttons/quit.png",
+            "posX" : -82,
+            "posY" : 150,
+            "width" : 164,
+            "height" : 30,
+            "alignment" : "center",
+            "imageWidth": "820",
+            "imageHeight": "150",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        }
+    },
+
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        "pack":
+        {
+            "text" : "DEV 0.1",
+            "posX" : 143,
+            "posY" : -27,
+            "color" : 7506394,
+            "hoverText" : "Exo:E Discord!",
+            "alignment" : "center",
+            "action" :
+            {
+                  "type" : "openLink",
+                  "link" : "https://www.youtube.com/"
+            }
+        },
+
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -36,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    "other":
+    {
+        "background":
+        {
+            "image" : "textures:gui/background/background.png",
+            "mode" : "stretch"
+        }
+    }
+}

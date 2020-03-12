@@ -1,0 +1,12 @@
+{
+    "parts": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "nbt": {"ForgeCaps":{"nuclearcraft:capability_default_radiation_resistance":{"radiationResistance":"0.0d"}},"Items":[],"id":"minecraft:ec_basic_table"},
+            "elements": [
+                "extendedcrafting:table_basic@0"
+            ]
+        }
+    ]}

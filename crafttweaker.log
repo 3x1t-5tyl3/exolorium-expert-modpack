@@ -52,3 +52,364 @@
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: test.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Vanilla\remove.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Fluid Tank
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Basic Crafting Table
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinity Ingot
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Nature's Ruin
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Endest Pearl
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Sword of the Cosmos
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Skullfire Sword
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Asgardandelion
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Longbow of the Heavens
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Neutron Collector
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: World Breaker
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Neutronium Compressor
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinity Catalyst
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Planet Eater
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinitato
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Hoe of the Green Earth
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Enhancement Crystal
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Cosmic Meatballs
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Ultimate Stew
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinity Boots
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinity Leggings
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinity Breastplate
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinity Helmet
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: plates.zs}
+[INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: plate
+[INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: gear
+[INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: stick
+[INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: coil
+[INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: dust
+[INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: ore
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 576ms
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ingotIron@0, output=1xitem.thermalfoundation.material@32, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ingotGold@0, output=1xitem.thermalfoundation.material@33, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.diamond@0, output=1xitem.moreplates.diamond_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.emerald@0, output=1xitem.moreplates.emerald_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.netherquartz@0, output=1xitem.moreplates.nether_quartz_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.dyePowder@4, output=1xitem.moreplates.lapis_lazuli_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.resource@1, output=1xitem.moreplates.crystal_matrix_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.resource@4, output=1xitem.moreplates.neutronium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.resource@6, output=1xitem.moreplates.infinity_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@128, output=1xitem.thermalfoundation.material@320, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@129, output=1xitem.thermalfoundation.material@321, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@130, output=1xitem.thermalfoundation.material@322, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@131, output=1xitem.thermalfoundation.material@323, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@132, output=1xitem.thermalfoundation.material@324, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@133, output=1xitem.thermalfoundation.material@325, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@134, output=1xitem.thermalfoundation.material@326, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@135, output=1xitem.thermalfoundation.material@327, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@136, output=1xitem.thermalfoundation.material@328, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@160, output=1xitem.thermalfoundation.material@352, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@161, output=1xitem.thermalfoundation.material@353, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@162, output=1xitem.thermalfoundation.material@354, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@163, output=1xitem.thermalfoundation.material@355, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@164, output=1xitem.thermalfoundation.material@356, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@165, output=1xitem.thermalfoundation.material@357, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@166, output=1xitem.thermalfoundation.material@358, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.thermalfoundation.material@167, output=1xitem.thermalfoundation.material@359, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.draconicevolution:draconium_ingot@0, output=1xitem.moreplates.draconium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.draconicevolution:draconic_ingot@0, output=1xitem.moreplates.awakened_draconium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@0, output=1xitem.moreplates.electrical_steel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@1, output=1xitem.moreplates.energetic_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@2, output=1xitem.moreplates.vibrant_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@3, output=1xitem.moreplates.redstone_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@4, output=1xitem.moreplates.conductive_iron_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@5, output=1xitem.moreplates.pulsating_iron_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@6, output=1xitem.moreplates.dark_steel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@7, output=1xitem.moreplates.soularium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@8, output=1xitem.moreplates.end_steel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_ingot@9, output=1xitem.moreplates.iron_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_endergy_ingot@0, output=1xitem.moreplates.crude_steel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_endergy_ingot@1, output=1xitem.moreplates.crystalline_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_endergy_ingot@2, output=1xitem.moreplates.melodic_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_endergy_ingot@3, output=1xitem.moreplates.stellar_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_endergy_ingot@4, output=1xitem.moreplates.crystalline_pink_slime_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_endergy_ingot@5, output=1xitem.moreplates.energetic_silver_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.item_alloy_endergy_ingot@6, output=1xitem.moreplates.vivid_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.manaResource@0, output=1xitem.moreplates.manasteel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.manaResource@7, output=1xitem.moreplates.elementium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.manaResource@4, output=1xitem.moreplates.terrasteel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.obsidian_ingot@0, output=1xitem.techreborn.plate@9, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.redstone_ingot@0, output=1xitem.moreplates.redstone_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.antimony_ingot@0, output=1xtile.basemetals.antimony_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.bismuth_ingot@0, output=1xtile.basemetals.bismuth_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:zinc_ingot@0, output=1xitem.hammermetals:zinc_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:brass_ingot@0, output=1xitem.hammermetals:brass_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.cupronickel_ingot@0, output=1xtile.basemetals.cupronickel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.pewter_ingot@0, output=1xtile.basemetals.pewter_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.adamantine_ingot@0, output=1xtile.basemetals.adamantine_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.coldiron_ingot@0, output=1xtile.basemetals.coldiron_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.starsteel_ingot@0, output=1xtile.basemetals.starsteel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.basemetals.aquarium_ingot@0, output=1xtile.basemetals.aquarium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.nuclearcraft.ingot@9, output=1xtile.modernmetals.beryllium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.nuclearcraft.ingot@5, output=1xtile.modernmetals.boron_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.modernmetals.chromium_ingot@0, output=1xtile.modernmetals.chromium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.nuclearcraft.ingot@7, output=1xtile.modernmetals.magnesium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.nuclearcraft.ingot@11, output=1xtile.modernmetals.manganese_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:osmium_ingot@0, output=1xitem.hammermetals:osmium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.modernmetals.rutile_ingot@0, output=1xtile.modernmetals.rutile_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.modernmetals.tantalum_ingot@0, output=1xtile.modernmetals.tantalum_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.nuclearcraft.ingot@3, output=1xtile.modernmetals.thorium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:tungsten_ingot@0, output=1xitem.hammermetals:tungsten_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.nuclearcraft.ingot@10, output=1xtile.modernmetals.zirconium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.modernmetals.aluminumbrass_ingot@0, output=1xtile.modernmetals.aluminumbrass_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.modernmetals.galvanizedsteel_ingot@0, output=1xtile.modernmetals.galvanizedsteel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.modernmetals.nichrome_ingot@0, output=1xtile.modernmetals.nichrome_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.modernmetals.stainlesssteel_ingot@0, output=1xtile.modernmetals.stainlesssteel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.modernmetals.cadmium_ingot@0, output=1xtile.modernmetals.cadmium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.bigreactors:ingotblutonium@0, output=1xtile.modernmetals.plutonium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.nuclearcraft.ingot@4, output=1xitem.immersiveengineering.metal@35, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:titanium_ingot@0, output=1xitem.hammermetals:titanium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.gem@1, output=1xitem.techreborn.plate@12, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.gem@2, output=1xitem.techreborn.plate@14, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.gem@6, output=1xitem.techreborn.plate@13, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.crystallized_obsidian@0, output=1xitem.techreborn.plate@9, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.extrautils2:ingredients@0, output=1xitem.moreplates.redstone_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.extrautils2:ingredients@11, output=1xitem.moreplates.demon_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.extrautils2:ingredients@12, output=1xitem.moreplates.enchanted_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.extrautils2:ingredients@17, output=1xitem.moreplates.evil_infused_iron_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:chrome_ingot@0, output=1xitem.hammermetals:chrome_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:cobalt_ingot@0, output=1xitem.hammermetals:cobalt_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:palladium_ingot@0, output=1xitem.hammermetals:palladium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:platiniridium_ingot@0, output=1xitem.hammermetals:platiniridium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.hammermetals:tungstensteel_ingot@0, output=1xitem.hammermetals:tungstensteel_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.projectred.core.itemResource@103, output=1xitem.moreplates.red_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.projectred.core.itemResource@104, output=1xitem.moreplates.electrotine_alloy_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.alumiteingot@0, output=1xitem.moreplates.alumite_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.Ingot@0, output=1xitem.moreplates.refined_obsidian_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.Ingot@3, output=1xitem.moreplates.refined_glowstone_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.osgloglasingot@0, output=1xitem.moreplates.osgloglas_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.osmiridiumingot@0, output=1xitem.moreplates.osmiridium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.actuallyadditions.item_misc@5, output=1xitem.moreplates.black_quartz_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.manaResource@14, output=1xitem.moreplates.gaia_spirit_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ingot@3, output=1xitem.plate@3, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ingot@0, output=1xitem.plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ingot@1, output=1xitem.plate@1, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xmiscpart@1, output=1xitem.techreborn.plate@2, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.tconstruct.ingots@1, output=1xitem.moreplates.ardite_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.tconstruct.ingots@2, output=1xitem.moreplates.manyullyn_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.tconstruct.ingots@3, output=1xitem.moreplates.knightslime_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.tconstruct.ingots@4, output=1xitem.moreplates.pig_iron_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@33, output=1xitem.moreplates.inferium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@36, output=1xitem.moreplates.superium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@37, output=1xitem.moreplates.supremium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@38, output=1xitem.moreplates.soulium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@35, output=1xitem.moreplates.intermedium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@34, output=1xitem.moreplates.prudentium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.insanium@2, output=1xitem.moreplates.insanium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.mirioningot@0, output=1xitem.moreplates.mirion_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.coal@0, output=1xitem.moreplates.coal_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.techreborn.gem@3, output=1xitem.techreborn.plate@15, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.techreborn.gem@4, output=1xitem.techreborn.plate@16, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.techreborn.ingot@19, output=1xitem.techreborn.plate@35, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.techreborn.ingot@20, output=1xitem.techreborn.plate@36, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.techreborn.ingot@22, output=1xitem.techreborn.plate@38, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.twilightforest.fieryIngot@0, output=1xitem.moreplates.fiery_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.twilightforest.ironwoodIngot@0, output=1xitem.moreplates.ironwood_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.twilightforest.knightMetal@0, output=1xitem.moreplates.knightmetal_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.ingotIron@0, output=1xitem.thermalfoundation.material@32, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.ingotGold@0, output=1xitem.thermalfoundation.material@33, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.magneticraft.ingots@2, output=1xitem.thermalfoundation.material@320, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.magneticraft.ingots@13, output=1xitem.thermalfoundation.material@321, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.magneticraft.ingots@12, output=1xitem.thermalfoundation.material@322, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.magneticraft.ingots@3, output=1xitem.thermalfoundation.material@323, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.magneticraft.ingots@7, output=1xitem.thermalfoundation.material@324, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.magneticraft.ingots@10, output=1xitem.thermalfoundation.material@325, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.thermalfoundation.material@134, output=1xitem.thermalfoundation.material@326, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.thermalfoundation.material@135, output=1xitem.thermalfoundation.material@327, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.magneticraft.ingots@9, output=1xitem.thermalfoundation.material@328, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.magneticraft.ingots@6, output=1xitem.thermalfoundation.material@352, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.thermalfoundation.material@161, output=1xitem.thermalfoundation.material@353, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.thermalfoundation.material@162, output=1xitem.thermalfoundation.material@354, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.thermalfoundation.material@164, output=1xitem.thermalfoundation.material@356, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.thermalfoundation.material@165, output=1xitem.thermalfoundation.material@357, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.thermalfoundation.material@166, output=1xitem.thermalfoundation.material@358, ticks=80.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Removing HydraulicPressRecipe(input=1xitem.thermalfoundation.material@167, output=1xitem.thermalfoundation.material@359, ticks=80.0, mode=LIGHT, oreDict=true)
+[POSTINITIALIZATION][CLIENT][INFO] Adding Inscriber Entry for Spawn
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes matching: modularmachinery
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes matching: waterstrainer
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes matching: buildcraftcore
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes matching: threng
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Carbonic Fluix Complex with name 2x.item.threng_material1.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fluix-Plated Iron with name 1x.item.threng_material2.shapeless
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Morphing Tool with name ct_shaped-832450564
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Akashic Tome with name ct_shaped2024534631
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Extreme Crafting Table with name ct_shaped474860950
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Mechanical Component with name 1x.item.immersiveengineering.material.component_steel.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Aluminum Casing with name 1x.tile.hammermetals_aluminum_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bronze Casing with name 1x.tile.hammermetals_bronze_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cobalt Casing with name 1x.tile.hammermetals_cobalt_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Constantan Casing with name 1x.tile.hammermetals_constantan_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Casing with name 1x.tile.hammermetals_copper_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Electrum Casing with name 1x.tile.hammermetals_electrum_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Casing with name 1x.tile.hammermetals_gold_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Invar Casing with name 1x.tile.hammermetals_invar_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iridium Casing with name 1x.tile.hammermetals_iridium_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Casing with name 1x.tile.hammermetals_iron_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lead Casing with name 1x.tile.hammermetals_lead_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Osmium Casing with name 1x.tile.hammermetals_osmium_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Palladium Casing with name 1x.tile.hammermetals_palladium_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Platiniridium Casing with name 1x.tile.hammermetals_platiniridium_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Platinum Casing with name 1x.tile.hammermetals_platinum_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Casing with name 1x.tile.hammermetals_silver_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Casing with name 1x.tile.hammermetals_steel_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Titanium Casing with name 1x.tile.hammermetals_titanium_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tungstensteel Casing with name 1x.tile.hammermetals_tungstensteel_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tungsten Casing with name 1x.tile.hammermetals_tungsten_casing.shaped
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Plate with name Iron_plate_from_Iron_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gold Plate with name Gold_plate_from_Gold_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Diamond Plate with name Diamond_plate_from_Diamond_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Emerald Plate with name Emerald_plate_from_Emerald_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nether Quartz Plate with name Quartz_plate_from_Quartz_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lapis Lazuli Plate with name Lapis_plate_from_Lapis_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Crystal Matrix Plate with name CrystalMatrix_plate_from_CrystalMatrix_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Neutronium Plate with name CosmicNeutronium_plate_from_CosmicNeutronium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Infinity Plate with name Infinity_plate_from_Infinity_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Copper Plate with name Copper_plate_from_Copper_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tin Plate with name Tin_plate_from_Tin_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silver Plate with name Silver_plate_from_Silver_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lead Plate with name Lead_plate_from_Lead_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aluminum Plate with name Aluminum_plate_from_Aluminum_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nickel Plate with name Nickel_plate_from_Nickel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Platinum Plate with name Platinum_plate_from_Platinum_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iridium Plate with name Iridium_plate_from_Iridium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Mana Infused Plate with name Mithril_plate_from_Mithril_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Steel Plate with name Steel_plate_from_Steel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Electrum Plate with name Electrum_plate_from_Electrum_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Invar Plate with name Invar_plate_from_Invar_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bronze Plate with name Bronze_plate_from_Bronze_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Constantan Plate with name Constantan_plate_from_Constantan_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Signalum Plate with name Signalum_plate_from_Signalum_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lumium Plate with name Lumium_plate_from_Lumium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Enderium Plate with name Enderium_plate_from_Enderium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Draconium Plate with name Draconium_plate_from_Draconium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Awakened Draconium Plate with name DraconiumAwakened_plate_from_DraconiumAwakened_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Electrical Steel Plate with name ElectricalSteel_plate_from_ElectricalSteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Energetic Alloy Plate with name EnergeticAlloy_plate_from_EnergeticAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Vibrant Alloy Plate with name VibrantAlloy_plate_from_VibrantAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Redstone Alloy Plate with name RedstoneAlloy_plate_from_RedstoneAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Conductive Iron Plate with name ConductiveIron_plate_from_ConductiveIron_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pulsating Iron Plate with name PulsatingIron_plate_from_PulsatingIron_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Dark Steel Plate with name DarkSteel_plate_from_DarkSteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Soularium Plate with name Soularium_plate_from_Soularium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for End Steel Plate with name EndSteel_plate_from_EndSteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Alloy Plate with name ConstructionAlloy_plate_from_ConstructionAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Crude Steel Plate with name CrudeSteel_plate_from_CrudeSteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Crystalline Alloy Plate with name CrystallineAlloy_plate_from_CrystallineAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Melodic Alloy Plate with name MelodicAlloy_plate_from_MelodicAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Stellar Alloy Plate with name StellarAlloy_plate_from_StellarAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Crystalline Pink Slime Plate with name CrystallinePinkSlime_plate_from_CrystallinePinkSlime_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Energetic Silver Plate with name EnergeticSilver_plate_from_EnergeticSilver_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Vivid Alloy Plate with name VividAlloy_plate_from_VividAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Manasteel Plate with name Manasteel_plate_from_Manasteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Elementium Plate with name ElvenElementium_plate_from_ElvenElementium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Terrasteel Plate with name Terrasteel_plate_from_Terrasteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Obsidian Plate with name Obsidian_plate_from_Obsidian_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Redstone Plate with name Redstone_plate_from_Redstone_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Antimony Plate with name Antimony_plate_from_Antimony_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bismuth Plate with name Bismuth_plate_from_Bismuth_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Zinc Plate with name Zinc_plate_from_Zinc_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Brass Plate with name Brass_plate_from_Brass_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cupronickel Plate with name Cupronickel_plate_from_Cupronickel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pewter Plate with name Pewter_plate_from_Pewter_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Adamantine Plate with name Adamantine_plate_from_Adamantine_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cold-Iron Plate with name Coldiron_plate_from_Coldiron_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Star-Steel Plate with name Starsteel_plate_from_Starsteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aquarium Plate with name Aquarium_plate_from_Aquarium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Beryllium Plate with name Beryllium_plate_from_Beryllium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Boron Plate with name Boron_plate_from_Boron_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Chromium Plate with name Chromium_plate_from_Chromium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Magnesium Plate with name Magnesium_plate_from_Magnesium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Manganese Plate with name Manganese_plate_from_Manganese_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Osmium Plate with name Osmium_plate_from_Osmium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Rutile Plate with name Rutile_plate_from_Rutile_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tantalum Plate with name Tantalum_plate_from_Tantalum_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Thorium Plate with name Thorium_plate_from_Thorium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tungsten Plate with name Tungsten_plate_from_Tungsten_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Zirconium Plate with name Zirconium_plate_from_Zirconium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aluminum Brass Plate with name Aluminumbrass_plate_from_Aluminumbrass_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Galvanized Steel Plate with name Galvanizedsteel_plate_from_Galvanizedsteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nichrome Plate with name Nichrome_plate_from_Nichrome_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Stainless Steel Plate with name Stainlesssteel_plate_from_Stainlesssteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cadmium Plate with name Cadmium_plate_from_Cadmium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Plutonium Plate with name Plutonium_plate_from_Plutonium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Uranium Plate with name Uranium_plate_from_Uranium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Plate with name Titanium_plate_from_Titanium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ruby Plate with name Ruby_plate_from_Ruby_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Peridot Plate with name Peridot_plate_from_Peridot_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Sapphire Plate with name Sapphire_plate_from_Sapphire_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Obsidian Plate with name Obsidian_plate_from_Obsidian_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Redstone Plate with name Redstone_plate_from_Redstone_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Demon Plate with name DemonicMetal_plate_from_DemonicMetal_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Enchanted Plate with name EnchantedMetal_plate_from_EnchantedMetal_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Evil Infused Iron Plate with name EvilMetal_plate_from_EvilMetal_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Chrome Plate with name Chrome_plate_from_Chrome_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cobalt Plate with name Cobalt_plate_from_Cobalt_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Palladium Plate with name Palladium_plate_from_Palladium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Platiniridium Plate with name Platiniridium_plate_from_Platiniridium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tungstensteel Plate with name Tungstensteel_plate_from_Tungstensteel_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Red Alloy Plate with name RedAlloy_plate_from_RedAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Electrotine Alloy Plate with name ElectrotineAlloy_plate_from_ElectrotineAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Alumite Plate with name Alumite_plate_from_Alumite_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Refined Obsidian Plate with name RefinedObsidian_plate_from_RefinedObsidian_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Refined Glowstone Plate with name RefinedGlowstone_plate_from_RefinedGlowstone_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Osgloglas Plate with name Osgloglas_plate_from_Osgloglas_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Osmiridium Plate with name Osmiridium_plate_from_Osmiridium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Black Quartz Plate with name QuartzBlack_plate_from_QuartzBlack_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gaia Spirit Plate with name Gaia_plate_from_Gaia_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silicon Plate with name Silicon_plate_from_Silicon_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Aluminide Plate with name TitaniumAluminide_plate_from_TitaniumAluminide_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Iridium Alloy Plate with name TitaniumIridium_plate_from_TitaniumIridium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Carbon Plate with name Carbon_plate_from_Carbon_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ardite Plate with name Ardite_plate_from_Ardite_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Manyullyn Plate with name Manyullyn_plate_from_Manyullyn_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Knightslime Plate with name Knightslime_plate_from_Knightslime_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pig Iron Plate with name Pigiron_plate_from_Pigiron_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Inferium Plate with name Inferium_plate_from_Inferium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Superium Plate with name Superium_plate_from_Superium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Supremium Plate with name Supremium_plate_from_Supremium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Soulium Plate with name Soulium_plate_from_Soulium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Intermedium Plate with name Intermedium_plate_from_Intermedium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Prudentium Plate with name Prudentium_plate_from_Prudentium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Insanium Plate with name Insanium_plate_from_Insanium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Mirion Plate with name Mirion_plate_from_Mirion_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Coal Plate with name Coal_plate_from_Coal_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Red Garnet Plate with name RedGarnet_plate_from_RedGarnet_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Yellow Garnet Plate with name YellowGarnet_plate_from_YellowGarnet_gem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Refined Iron Plate with name RefinedIron_plate_from_RefinedIron_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Advanced Alloy Plate with name AdvancedAlloy_plate_from_AdvancedAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iridium Alloy Plate with name IridiumAlloy_plate_from_IridiumAlloy_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fiery Plate with name Fiery_plate_from_Fiery_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ironwood Plate with name Ironwood_plate_from_Ironwood_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Knightmetal Plate with name Knightmetal_plate_from_Knightmetal_ingot
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook

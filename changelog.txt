@@ -1,0 +1,15 @@
+Changelog: Exolorium Expert
+
+============================================================
+
+Date:   13.3.2020
+Ver :   INDEV 0.1
+- Initial Commit
+- "Hello world!"
+
+Added:
++ Exolorium Expert INDEV
+Changed:
+* NIL
+Removed:
+- NIL

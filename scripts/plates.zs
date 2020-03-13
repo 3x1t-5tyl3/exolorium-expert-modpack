@@ -52,6 +52,12 @@ for entry in oreDict.entries {
     recipes.addShapeless(otherName ~ "_plate_from_" ~ otherName ~ "_" ~ otherBit, plateDict.firstItem, [entry, entry, <ore:artisansHammer>.transformDamage()]);
 }
 
+mods.unidict.api.newShapedRecipeTemplate("casing", 1, [
+    ["plate","gear","plate"],
+    ["gear","block","gear"],
+    ["plate","gear","plate"]
+]);
+
 mods.unidict.removalByKind.get("Crafting").remove("plate");
 mods.unidict.removalByKind.get("Crafting").remove("gear");
 mods.unidict.removalByKind.get("Crafting").remove("stick");

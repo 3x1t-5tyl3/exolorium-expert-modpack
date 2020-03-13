@@ -1,5 +1,5 @@
 import crafttweaker.item.IIngredient;
-
+/*
 //Aluminum casing
 recipes.addShapedMirrored("1x.tile.hammermetals_aluminum_casing.shaped", <hammermetals:aluminum_casing>, [
 	[<thermalfoundation:material:324>, <thermalfoundation:material:260>, <thermalfoundation:material:324>],
@@ -139,3 +139,4 @@ recipes.addShapedMirrored("1x.tile.hammermetals_tungsten_casing.shaped", <hammer
 	[<modernmetals:tungsten_gear>, <techreborn:storage:10>, <modernmetals:tungsten_gear>],
 	[<techreborn:plates:32>, <modernmetals:tungsten_gear>, <techreborn:plates:32>]
 ]);
+*/

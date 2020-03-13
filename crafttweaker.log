@@ -95,6 +95,7 @@
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: plates.zs}
+[INITIALIZATION][CLIENT][INFO] Trying to create a Shaped Recipe Template for kind: casing
 [INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: plate
 [INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: gear
 [INITIALIZATION][CLIENT][INFO] Trying to remove Crafting Table recipes for kind: stick
@@ -109,7 +110,7 @@
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 436ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 418ms
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ingotIron@0, output=1xitem.thermalfoundation.material@32, ticks=20.0, mode=LIGHT, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ingotGold@0, output=1xitem.thermalfoundation.material@33, ticks=20.0, mode=LIGHT, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.diamond@0, output=1xitem.moreplates.diamond_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
@@ -219,12 +220,12 @@
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.tconstruct.ingots@2, output=1xitem.moreplates.manyullyn_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.tconstruct.ingots@3, output=1xitem.moreplates.knightslime_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.tconstruct.ingots@4, output=1xitem.moreplates.pig_iron_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
-[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@34, output=1xitem.moreplates.prudentium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
-[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@33, output=1xitem.moreplates.inferium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
-[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@35, output=1xitem.moreplates.intermedium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
-[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@36, output=1xitem.moreplates.superium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@37, output=1xitem.moreplates.supremium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@34, output=1xitem.moreplates.prudentium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@36, output=1xitem.moreplates.superium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@38, output=1xitem.moreplates.soulium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@35, output=1xitem.moreplates.intermedium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
+[INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.crafting@33, output=1xitem.moreplates.inferium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.ma.insanium@2, output=1xitem.moreplates.insanium_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.mirioningot@0, output=1xitem.moreplates.mirion_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
 [INITIALIZATION][CLIENT][INFO] Adding HydraulicPressRecipe(input=1xitem.coal@0, output=1xitem.moreplates.coal_plate@0, ticks=20.0, mode=LIGHT, oreDict=true)
@@ -266,26 +267,6 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Akashic Tome with name ct_shaped2024534631
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Extreme Crafting Table with name ct_shaped474860950
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Mechanical Component with name 1x.item.immersiveengineering.material.component_steel.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Aluminum Casing with name 1x.tile.hammermetals_aluminum_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bronze Casing with name 1x.tile.hammermetals_bronze_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cobalt Casing with name 1x.tile.hammermetals_cobalt_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Constantan Casing with name 1x.tile.hammermetals_constantan_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Casing with name 1x.tile.hammermetals_copper_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Electrum Casing with name 1x.tile.hammermetals_electrum_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Casing with name 1x.tile.hammermetals_gold_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Invar Casing with name 1x.tile.hammermetals_invar_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iridium Casing with name 1x.tile.hammermetals_iridium_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Casing with name 1x.tile.hammermetals_iron_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lead Casing with name 1x.tile.hammermetals_lead_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Osmium Casing with name 1x.tile.hammermetals_osmium_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Palladium Casing with name 1x.tile.hammermetals_palladium_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Platiniridium Casing with name 1x.tile.hammermetals_platiniridium_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Platinum Casing with name 1x.tile.hammermetals_platinum_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Casing with name 1x.tile.hammermetals_silver_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Casing with name 1x.tile.hammermetals_steel_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Titanium Casing with name 1x.tile.hammermetals_titanium_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tungstensteel Casing with name 1x.tile.hammermetals_tungstensteel_casing.shaped
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tungsten Casing with name 1x.tile.hammermetals_tungsten_casing.shaped
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Plate with name Iron_plate_from_Iron_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gold Plate with name Gold_plate_from_Gold_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Diamond Plate with name Diamond_plate_from_Diamond_gem
@@ -395,12 +376,12 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Manyullyn Plate with name Manyullyn_plate_from_Manyullyn_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Knightslime Plate with name Knightslime_plate_from_Knightslime_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pig Iron Plate with name Pigiron_plate_from_Pigiron_ingot
-[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Prudentium Plate with name Prudentium_plate_from_Prudentium_ingot
-[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Inferium Plate with name Inferium_plate_from_Inferium_ingot
-[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Intermedium Plate with name Intermedium_plate_from_Intermedium_ingot
-[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Superium Plate with name Superium_plate_from_Superium_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Supremium Plate with name Supremium_plate_from_Supremium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Prudentium Plate with name Prudentium_plate_from_Prudentium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Superium Plate with name Superium_plate_from_Superium_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Soulium Plate with name Soulium_plate_from_Soulium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Intermedium Plate with name Intermedium_plate_from_Intermedium_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Inferium Plate with name Inferium_plate_from_Inferium_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Insanium Plate with name Insanium_plate_from_Insanium_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Mirion Plate with name Mirion_plate_from_Mirion_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Coal Plate with name Coal_plate_from_Coal_gem
@@ -412,6 +393,66 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fiery Plate with name Fiery_plate_from_Fiery_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Ironwood Plate with name Ironwood_plate_from_Ironwood_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Knightmetal Plate with name Knightmetal_plate_from_Knightmetal_ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Rod with name Iron_stick_from_Iron_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gold Rod with name Gold_stick_from_Gold_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Copper Rod with name Copper_stick_from_Copper_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tin Rod with name Tin_stick_from_Tin_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silver Rod with name Silver_stick_from_Silver_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lead Rod with name Lead_stick_from_Lead_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aluminum Rod with name Aluminum_stick_from_Aluminum_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nickel Rod with name Nickel_stick_from_Nickel_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Platinum Rod with name Platinum_stick_from_Platinum_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iridium Rod with name Iridium_stick_from_Iridium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Mana Infused Rod with name Mithril_stick_from_Mithril_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Steel Rod with name Steel_stick_from_Steel_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Electrum Rod with name Electrum_stick_from_Electrum_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Invar Rod with name Invar_stick_from_Invar_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bronze Rod with name Bronze_stick_from_Bronze_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Constantan Rod with name Constantan_stick_from_Constantan_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Signalum Rod with name Signalum_stick_from_Signalum_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lumium Rod with name Lumium_stick_from_Lumium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Enderium Rod with name Enderium_stick_from_Enderium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Brass Rod with name Brass_stick_from_Brass_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Chrome Rod with name Chrome_stick_from_Chrome_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cobalt Rod with name Cobalt_stick_from_Cobalt_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Osmium Rod with name Osmium_stick_from_Osmium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Palladium Rod with name Palladium_stick_from_Palladium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Platiniridium Rod with name Platiniridium_stick_from_Platiniridium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Rod with name Titanium_stick_from_Titanium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tungsten Rod with name Tungsten_stick_from_Tungsten_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tungstensteel Rod with name Tungstensteel_stick_from_Tungstensteel_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Zinc Rod with name Zinc_stick_from_Zinc_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Diamond Rod with name Diamond_stick_from_Diamond_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Emerald Rod with name Emerald_stick_from_Emerald_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Quartz Rod with name Quartz_stick_from_Quartz_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Aluminide Rod with name TitaniumAluminide_stick_from_TitaniumAluminide_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Iridium Alloy Rod with name TitaniumIridium_stick_from_TitaniumIridium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cupronickel Rod with name Cupronickel_stick_from_Cupronickel_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cold-Iron Rod with name Coldiron_stick_from_Coldiron_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aquarium Rod with name Aquarium_stick_from_Aquarium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pewter Rod with name Pewter_stick_from_Pewter_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Star-Steel Rod with name Starsteel_stick_from_Starsteel_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Antimony Rod with name Antimony_stick_from_Antimony_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bismuth Rod with name Bismuth_stick_from_Bismuth_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Adamantine Rod with name Adamantine_stick_from_Adamantine_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Uranium Rod with name Uranium_stick_from_Uranium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Zirconium Rod with name Zirconium_stick_from_Zirconium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Stainless Steel Rod with name Stainlesssteel_stick_from_Stainlesssteel_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Thorium Rod with name Thorium_stick_from_Thorium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tantalum Rod with name Tantalum_stick_from_Tantalum_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nichrome Rod with name Nichrome_stick_from_Nichrome_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Boron Rod with name Boron_stick_from_Boron_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Plutonium Rod with name Plutonium_stick_from_Plutonium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Rutile Rod with name Rutile_stick_from_Rutile_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Chromium Rod with name Chromium_stick_from_Chromium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cadmium Rod with name Cadmium_stick_from_Cadmium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Galvanized Steel Rod with name Galvanizedsteel_stick_from_Galvanizedsteel_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Magnesium Rod with name Magnesium_stick_from_Magnesium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Beryllium Rod with name Beryllium_stick_from_Beryllium_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Manganese Rod with name Manganese_stick_from_Manganese_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aluminum Brass Rod with name Aluminumbrass_stick_from_Aluminumbrass_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Stick with name Wood_stick_from_Wood_plate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Obsidian Rod with name Obsidian_stick_from_Obsidian_plate
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:certus_quartz_pickaxe>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:nether_quartz_pickaxe>
@@ -468,240 +509,3 @@
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <basemetals:platinum_ore>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:resources:1>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:resources:2>
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: plates.zs}
-[SERVER_STARTED][SERVER][ERROR] plates.zs:62 > string value has no such member: firstItem
-[SERVER_STARTED][SERVER][ERROR] plates.zs:62 > string value has no such member: firstItem
-[SERVER_STARTED][SERVER][ERROR] plates.zs:63 > string value has no such member: firstItem
-[SERVER_STARTED][SERVER][ERROR] plates.zs:63 > string value has no such member: firstItem
-[SERVER_STARTED][SERVER][ERROR] plates.zs:64 > string value has no such member: firstItem
-[SERVER_STARTED][SERVER][ERROR] plates.zs:64 > string value has no such member: firstItem
-[SERVER_STARTED][SERVER][ERROR] plates.zs:62 > Cannot cast string to ZenTypeNative: crafttweaker.item.IIngredient
-[SERVER_STARTED][SERVER][ERROR] plates.zs:62 > Cannot cast string to ZenTypeNative: crafttweaker.item.IIngredient
-[SERVER_STARTED][SERVER][ERROR] plates.zs:62 > Cannot cast string to ZenTypeNative: crafttweaker.item.IIngredient
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 31ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: plates.zs}
-[SERVER_STARTED][SERVER][ERROR] [crafttweaker | SIDE_CLIENT]: Error loading {[0:crafttweaker]: plates.zs}: java.lang.NullPointerException
-java.lang.NullPointerException
-	at stanhebben.zenscript.statements.Statement.read(Statement.java:24)
-	at stanhebben.zenscript.statements.Statement.read(Statement.java:29)
-	at stanhebben.zenscript.statements.Statement.read(Statement.java:80)
-	at stanhebben.zenscript.ZenParsedFile.<init>(ZenParsedFile.java:144)
-	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:193)
-	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
-	at crafttweaker.mc1120.commands.Commands$27.executeCommand(Commands.java:856)
-	at crafttweaker.mc1120.commands.CTChatCommand.func_184881_a(CTChatCommand.java:73)
-	at com.feed_the_beast.ftbutilities.ranks.CommandOverride.func_184881_a(CommandOverride.java:83)
-	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119)
-	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91)
-	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962)
-	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941)
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37)
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9)
-	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at net.minecraft.util.Util.func_181617_a(SourceFile:529)
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723)
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
-	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
-	at java.lang.Thread.run(Unknown Source)
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 13ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: plates.zs}
-[SERVER_STARTED][SERVER][ERROR] [crafttweaker | SIDE_CLIENT]: Error loading {[0:crafttweaker]: plates.zs}: java.lang.NullPointerException
-java.lang.NullPointerException
-	at stanhebben.zenscript.statements.Statement.read(Statement.java:24)
-	at stanhebben.zenscript.statements.Statement.read(Statement.java:29)
-	at stanhebben.zenscript.statements.Statement.read(Statement.java:80)
-	at stanhebben.zenscript.ZenParsedFile.<init>(ZenParsedFile.java:144)
-	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:193)
-	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
-	at crafttweaker.mc1120.commands.Commands$27.executeCommand(Commands.java:856)
-	at crafttweaker.mc1120.commands.CTChatCommand.func_184881_a(CTChatCommand.java:73)
-	at com.feed_the_beast.ftbutilities.ranks.CommandOverride.func_184881_a(CommandOverride.java:83)
-	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119)
-	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91)
-	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962)
-	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941)
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37)
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9)
-	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at net.minecraft.util.Util.func_181617_a(SourceFile:529)
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723)
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
-	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
-	at java.lang.Thread.run(Unknown Source)
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 14ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: plates.zs}
-[SERVER_STARTED][SERVER][ERROR] [crafttweaker | SIDE_CLIENT]: Error loading {[0:crafttweaker]: plates.zs}: java.lang.NullPointerException
-java.lang.NullPointerException
-	at stanhebben.zenscript.statements.Statement.read(Statement.java:24)
-	at stanhebben.zenscript.statements.Statement.read(Statement.java:29)
-	at stanhebben.zenscript.statements.Statement.read(Statement.java:80)
-	at stanhebben.zenscript.ZenParsedFile.<init>(ZenParsedFile.java:144)
-	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:193)
-	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
-	at crafttweaker.mc1120.commands.Commands$27.executeCommand(Commands.java:856)
-	at crafttweaker.mc1120.commands.CTChatCommand.func_184881_a(CTChatCommand.java:73)
-	at com.feed_the_beast.ftbutilities.ranks.CommandOverride.func_184881_a(CommandOverride.java:83)
-	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119)
-	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91)
-	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962)
-	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941)
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37)
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9)
-	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at net.minecraft.util.Util.func_181617_a(SourceFile:529)
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723)
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
-	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
-	at java.lang.Thread.run(Unknown Source)
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 12ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
-[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: plates.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
-[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
-[SERVER_STARTED][SERVER][INFO] Completed script loading in: 16ms

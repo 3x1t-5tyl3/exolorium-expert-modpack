@@ -273,7 +273,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:1.0
+soundCategory_master:0.28807947
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

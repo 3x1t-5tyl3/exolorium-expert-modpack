@@ -502,3 +502,282 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Aluminide Rod with name TitaniumAluminide_stick_from_TitaniumAluminide_ingot
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Titanium Iridium Alloy Rod with name TitaniumIridium_stick_from_TitaniumIridium_ingot
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:certus_quartz_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <appliedenergistics2:nether_quartz_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <basemetals:steel_blend>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:crystal_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:emerald_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:mattock>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:netherbrick_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:sandstone_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:chunkloader>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrautils2:teleporter:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:broken_bronze_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:bronze_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:kit_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:pickaxe_steel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:inferium_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:intermedium_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:prudentium_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mysticalagriculture:superium_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <randomthings:spectrepickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <storagenetwork:remote:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tp:birthday_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:ore:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:silver_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:lead_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:copper_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:tin_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:aluminum_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:chrome_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:platinum_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:osmium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:nickel_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:iridium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:cobalt_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:tungsten_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:tungsten_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <hammermetals:titanium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <modernmetals:osmium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <modernmetals:thorium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <modernmetals:iridium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <modernmetals:plutonium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <modernmetals:uranium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <modernmetals:magnesium_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <modernmetals:boron_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <basemetals:copper_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <basemetals:lead_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <basemetals:nickel_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <basemetals:silver_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <basemetals:tin_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <basemetals:platinum_ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:resources:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:resources:2>
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\coils.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: metals-components.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 24ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\coils.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: metals-components.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 13ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\coils.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: metals-components.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 15ms
+<storagenetwork:process_kabel>
+<storagenetwork:im_kabel>
+<storagenetwork:ex_kabel>
+<storagenetwork:storage_kabel>
+<storagenetwork:kabel>
+<storagenetwork:request>
+<storagenetwork:master>
+<storagenetwork:remote>
+<storagenetwork:remote:2>
+<storagenetwork:remote:3>
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\coils.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: metals-components.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: SimpleStorageNetwork\add.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: SimpleStorageNetwork\removing.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 13ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\coils.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: metals-components.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: SimpleStorageNetwork\add.zs}
+[SERVER_STARTED][SERVER][ERROR] SimpleStorageNetwork\add.zs:3 > No such member: IOreDict
+[SERVER_STARTED][SERVER][ERROR] SimpleStorageNetwork\add.zs:3 > Not a valid type
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: SimpleStorageNetwork\removing.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 24ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [preinit]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 0ms
+[SERVER_STARTED][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\crafting.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\inscriber.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AE2\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: akahisic.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BaseMetals\JeiRH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\addition.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtendedCrafting\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtils\removal.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gears.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\casings.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: HammerMetals\coils.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\categories.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI\RH.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPadd.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MagnetiCraft\HPremove.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: metals-components.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: oredictcorr.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyinput.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyitem.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebymod.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing\removebyoredict.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RHORES.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: SimpleStorageNetwork\add.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: SimpleStorageNetwork\removing.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: test.zs}
+[SERVER_STARTED][SERVER][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Vanilla\remove.zs}
+[SERVER_STARTED][SERVER][INFO] Completed script loading in: 11ms
+Infuse Types:
+CARBON
+FUNGI
+REDSTONE
+OBSIDIAN
+DIAMOND
+TIN
+BIO
+<hammermetals:steel_casing>
+<hammermetals:osmium_casing>
+<hammermetals:lead_casing>
+<threng:material>
+<extendedcrafting:material:48>
+<tconstruct:ingots:2>
+<actuallyadditions:block_crystal_empowered>
+<actuallyadditions:block_crystal_empowered:1>
+<actuallyadditions:block_crystal_empowered:3>
+<moreplates:energetic_silver_gear>
+<basemetals:bismuth_gear>
+<basemetals:pewter_gear>

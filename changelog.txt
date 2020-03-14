@@ -2,6 +2,22 @@ Changelog: Exolorium Expert
 
 ============================================================
 
+Date:   14.3.2020
+Ver :   INDEV 0.1
+
+Added:
++ BetterPortals as an option with configs pre made.1
++ SmoothFont for easier reading.
++ EnbderportRec for making end portals with end portal frames. Also they're moveable.
++ A bunch of recipes. Namely coils and rods.
+
+Changed:
+* Fixed recipe scripts.
+
+Removed:
+- NIL
+
+============================================================
 Date:   13.3.2020
 Ver :   INDEV 0.1
 - Initial Commit
@@ -9,6 +25,8 @@ Ver :   INDEV 0.1
 
 Added:
 + Exolorium Expert INDEV
++ Casings/Plate/Stick recipes for various materials. All auto generated. Left an easter egg in.
+  Thanks to Silk on the MPD Discord for the script help on that!
 Changed:
 * NIL
 Removed:

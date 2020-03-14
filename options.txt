@@ -29,7 +29,7 @@ fullscreen:true
 enableVsync:false
 useVbo:false
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:false
 touchscreen:false
 overrideWidth:0
@@ -96,7 +96,7 @@ key_key.exchanger_range_switch:51
 key_key.exchanger_mode_switch:39
 key_key.exchanger_force_drop_items:52
 key_key.xu2.searchforitems:20
-key_Open Menu:25
+key_Open Menu:77:CONTROL
 key_Toggle Freeze Effect:19
 key_Enable/Disable:0
 key_Kill Particles:0
@@ -140,6 +140,7 @@ key_key.open_wit.desc:0
 key_key.open_wpt.desc:0
 key_key.dismount:42
 key_key.narrator:48:CONTROL
+key_smoothfont.key.guiOpen:199
 key_key.cofh.multimode:47
 key_key.toggle_focus.desc:15
 key_key.jei.toggleOverlay:24:CONTROL

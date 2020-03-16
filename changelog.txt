@@ -1,7 +1,22 @@
 Changelog: Exolorium Expert
 
 ============================================================
+Date:   16.3.2020
+Ver :   INDEV 0.1
 
+Added:
++ EndoloriumPearl (Customitem)
++ Stabilized Enderium (Customitem)
++ A few recipes
+
+Changed:
+* ExNi Oreregistry, Added a few metals (unfinished)
+* Updated the changelog (which I forgott.. whoops)
+
+Removed:
+- Braincells
+
+============================================================
 Date:   14.3.2020
 Ver :   INDEV 0.1
 

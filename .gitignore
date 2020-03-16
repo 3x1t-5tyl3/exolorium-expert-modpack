@@ -18,3 +18,15 @@ screenshots/**
 server-resource-packs/**
 texturepacks/**
 valkyrielib/**
+.ReAuth.cfg
+BotaniaVars.dat
+OpenComputersMod-1.7.5.192-lua52-native.64.dll
+OpenComputersMod-1.7.5.192-lua53-native.64.dll
+crafttweaker.log
+icon.png
+knownkeys.txt
+minecraftinstance.json
+options.txt
+patchouli_data.json
+registry.dump
+usernamecache.json

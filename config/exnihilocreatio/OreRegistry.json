@@ -101,5 +101,35 @@
     "name": "platinum",
     "color": "d7dfe7",
     "ingot": "thermalfoundation:material:134"
+  },
+  {
+    "name": "mercury",
+    "color": "D7D7D7",
+    "ingot": "basemetals:mercury_ingot",
+    "dust": "basemetals:mercury_powder"
+  },
+  {
+    "name": "bismuth",
+    "color": "D7D2C7",
+    "ingot": "basemetals:bismuth_ingot",
+    "dust": "basemetals:bismuth_powder"
+  },
+  {
+    "name": "zinc",
+    "color": "F6F6F6",
+    "ingot": "<techreborn:ingot:18>",
+    "dust": "<techreborn:dust:59>"
+  },
+  {
+    "name": "beryllium",
+    "color": "FFFEDD",
+    "ingot": "nuclearcraft:ingot:9",
+    "dust": "nuclearcraft:dust:9"
+  },
+  {
+    "name": "manganese",
+    "color": "FFDDFE",
+    "ingot": "nuclearcraft:ingot:11",
+    "dust": "techreborn:dust:31"
   }
 ]

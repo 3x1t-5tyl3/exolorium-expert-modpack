@@ -1,5 +1,5 @@
 #norun
-var stabilized_enderium = VanillaFactory.createItem("stabilized_enderium");
-stabilized_enderium.maxStackSize = 16;
-stabilized_enderium.unlocalizedName= "stabilized_enderium";
-stabilized_enderium.register();
+var legendary_circuit = VanillaFactory.createItem("legendary_circuit");
+legendary_circuit.maxStackSize = 64;
+legendary_circuit.unlocalizedName= "legendary_circuit";
+legendary_circuit.register();
